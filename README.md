@@ -8,6 +8,6 @@ I'm an **AI & Computer Science Student** based in Cairo, Egypt. I specialize in 
 
 Featured Projects:
 
-**[Real-Time Sign Language Recognition]((https://github.com/yyouretoast/real-time-sign-language-recognition))** | Translating hand gestures to text in real-time. | `OpenCV` `MediaPipe` `TensorFlow` |
+**[Real-Time Sign Language Recognition](https://github.com/yyouretoast/real-time-sign-language-recognition)** | Translating hand gestures to text in real-time. | `OpenCV` `MediaPipe` `TensorFlow` |
 
 **[Cairo House Price Predictor](https://github.com/yyouretoast/cairo-house-pricer)** | End-to-end ML pipeline with a deployed REST API. | `FastAPI` `Docker` `Scikit-Learn` |
